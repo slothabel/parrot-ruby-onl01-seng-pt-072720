@@ -4,11 +4,3 @@
 def parrot
   puts "Squawk!"
 end
-
-def parrot
-  return "Squawk!"
-end
-
-def parrot(phrase)
-  return "#{phrase}"
-end
