@@ -6,6 +6,6 @@ def parrot(phrase="Squawk!")
   puts phrase
 end
 
-def parrot(phrase="Squawk!")
-  return phrase
+def parrot(bird="Pretty bird!")
+  return bird
 end
